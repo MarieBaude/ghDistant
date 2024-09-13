@@ -11,8 +11,8 @@ Algo HelloWorld {
     // Finalisation
     Ajouter le label sur la fenetre
     Afficher la fenêtre
-	Créer la couleur bleue
-	Mettre la couleur bleue sur le label
+Créer la couleur de fond verte
+Mettre la couleur verte sur la fenêtre
 
   }
 }
