@@ -13,6 +13,9 @@ Algo HelloWorld {
     Afficher la fenêtre
 Créer la couleur de fond verte
 Mettre la couleur verte sur la fenêtre
+Mettre la dimension à 500, 300
+Alignement à gauche
+
 
   }
 }
